@@ -1,0 +1,12 @@
+.center{
+    position: relative;
+    top: 50%;
+    left: -10%;
+    transform: translateY(-50%, -50%);
+}
+
+.yellow{
+    background-color: rgb(253, 253, 129);
+    color: rgb(116, 116, 116);
+    text-decoration: none;
+}
